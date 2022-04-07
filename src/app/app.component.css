@@ -1,0 +1,24 @@
+.container {
+    margin-top: 30px;
+}
+
+h3 {
+    color: blue;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+
+p {
+    line-height: 200%;
+    text-align: justify;
+}
+
+input {
+    display: inline;
+    width: 100px;
+    height: 26px;
+}
